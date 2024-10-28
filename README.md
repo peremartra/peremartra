@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td  width="130">
-      <img src="https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/img/Large_Language_Models_Projects_Book.jpg" height="180" width="130">
+      <img src="https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/img/Large_Language_Models_Projects_Book.jpg" height="180">
     </td>
     <td>
       <p>
