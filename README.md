@@ -1,4 +1,4 @@
-👋 AI Engineer currently working with Large Language Models.
+👋 AI Engineer specializing in LLM optimization, structured pruning, model distillation, bias detection and financial AI applications.
 
 <table>
   <tr>
@@ -17,8 +17,7 @@
 
 
 
-
-If you are interested in collaboration or seeking advice on anything related to A.I., please don't hesitate to contact me. I would be delighted to assist and help in any possible way.
+Whether you’re looking for expertise in LLM internals, model efficiency, or financial AI, feel free to reach out. 
 
 Check out my GenAI & Deep & Machine Learning articles on Medium:
 
