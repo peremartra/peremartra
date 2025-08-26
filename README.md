@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-
+🚀 Currently building [optiPfair](https://github.com/peremartra/optipfair), a library for fairness-aware LLM pruning. Your ⭐ would be a great support!
 
 Whether you’re looking for expertise in LLM internals, model efficiency, or financial AI, feel free to reach out. 
 
