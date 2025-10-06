@@ -1,5 +1,5 @@
 # Pere Martra | Research Engineer & LLM Optimization Expert
-*Rearchitecting LLMs for hyper-efficiency and fairness through novel pruning techniques and open-source tools.*
+*Rearchitecting LLMs.*
 
 [![Contact for Collaboration](https://img.shields.io/badge/Contact%20for-Collaboration-brightgreen)](mailto:peremartra@uadla.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pere%20Martra-blue)](https://linkedin.com/in/pere-martra)
