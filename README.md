@@ -15,7 +15,7 @@ My work is focused on two main pillars: making LLMs more efficient and making th
 #### 🔧 **LLM Efficiency & Optimization**
 | Type | Description |
 |---|---|
-| 📖 **Engineering** | [**Rearchitecting-LLMs**](https://github.com/peremartra/Rearchitecting-LLMs): Code on advanced structured pruning and optimization. |
+| 📖 **Engineering** | [**Tailoring LLLM Architectures**](https://github.com/peremartra/Rearchitecting-LLMs): Code on advanced structured pruning and optimization. |
 | 🔬 **Research** | [**Adaptive Attention Bypass (AAB)**](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/6-PRUNING/6_6b_Adaptive_Inference_Attention_Pruning.ipynb): Prototype of a dynamic inference system that adjusts attention layers based on input complexity. |
 | 📄 **Preprint** | [**Exploring GLU Expansion Ratios in Llama-3.2 Models**](https://github.com/peremartra/llama-glu-expansion-pruning): My published methodology for structured pruning. |
 | ✍️ **Article** | [**How to Prune LLaMA 3.2 and Similar LLMs**](https://medium.com/data-science/how-to-prune-llama-3-2-and-similar-large-language-models-cf18e9a2afb6): A practical guide on *Towards Data Science*. |
