@@ -15,7 +15,7 @@ My work is focused on two main pillars: making LLMs more efficient and making th
 #### 🔧 **LLM Efficiency & Optimization**
 | Type | Description |
 |---|---|
-| 📖 **Engineering** | [**Tailoring LLM Architectures**](https://github.com/peremartra/Rearchitecting-LLMs): Code on advanced structured pruning and optimization. |
+| 📖 **Engineering** | [**Rearchitecting LLMs**](https://github.com/peremartra/Rearchitecting-LLMs): Code on advanced structured pruning and optimization. |
 | 🔬 **Research** | [**Adaptive Attention Bypass (AAB)**](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/6-PRUNING/6_6b_Adaptive_Inference_Attention_Pruning.ipynb): Prototype of a dynamic inference system that adjusts attention layers based on input complexity. |
 | 📄 **Preprint** | [**Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2**](https://www.arxiv.org/abs/2512.22671): My published methodology for structured pruning. [**Repository**](https://github.com/peremartra/llama-glu-expansion-pruning) |
 | ✍️ **Article** | [**How to Prune LLaMA 3.2 and Similar LLMs**](https://medium.com/data-science/how-to-prune-llama-3-2-and-similar-large-language-models-cf18e9a2afb6): A practical guide on *Towards Data Science*. |
@@ -34,6 +34,18 @@ My work is focused on two main pillars: making LLMs more efficient and making th
 ### Author & Educator
 
 <table>
+   <tr>
+    <td width="140">
+      <a href="https://hubs.la/Q040tvsK0">
+        <img src="https://github.com/peremartra/Rearchitecting-LLMs/blob/main/Images/cover.png" alt="Book Cover for Large Language Models Projects" width="120">
+      </a>
+    </td>
+    <td>
+      Authoring<b><a href="https://hubs.la/Q040tvsK0">"Rearchitecting LLMs"</a></b> (Manning, 2026) Understand and rearchitect internal LLMs. 
+      <br><br>
+      Join the community <a href="https://github.com/peremartra/Rearchitecting-LLMs"><b>Rearchitectong LLMs on GitHub</b></a> and become an LLM architect</b>. 
+    </td>
+  </tr>
   <tr>
     <td width="140">
       <a href="https://link.springer.com/book/10.1007/979-8-8688-0515-8">
