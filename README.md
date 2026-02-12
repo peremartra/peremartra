@@ -7,8 +7,39 @@
 
 ---
 
-### Key Contributions & Active Research
+### Active work
 My work is focused on two main pillars: making LLMs more efficient and making them more fair.
+
+---
+### Author 
+
+<table>
+   <tr>
+    <td width="140">
+      <a href="https://hubs.la/Q040tvsK0">
+        <img src="https://github.com/peremartra/Rearchitecting-LLMs/blob/main/Images/cover.png" alt="Book Cover for Large Language Models Projects" width="120">
+      </a>
+    </td>
+    <td>
+      Authoring<b><a href="https://hubs.la/Q040tvsK0">"Rearchitecting LLMs"</a></b> (Manning, 2026) Understand and rearchitect internal LLMs. 
+      <b><a href="https://hubs.la/Q040tvsK0">50% Off with code MLMartra.</a></b>
+      <br><br>
+      Join the community <a href="https://github.com/peremartra/Rearchitecting-LLMs"><b>Rearchitecting LLMs on GitHub</b></a> and become an LLM architect</b>. 
+    </td>
+  </tr>
+  <tr>
+    <td width="140">
+      <a href="https://link.springer.com/book/10.1007/979-8-8688-0515-8">
+        <img src="https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/img/Large_Language_Models_Projects_Book.jpg" alt="Book Cover for Large Language Models Projects" width="120">
+      </a>
+    </td>
+    <td>
+      I wrote <b><a href="https://link.springer.com/book/10.1007/979-8-8688-0515-8">"Large Language Models Projects"</a></b> (Apress, 2024) to provide practical, hands-on guidance for AI practitioners. 
+      <br><br>
+      The accompanying <a href="https://github.com/peremartra/Large-Language-Model-Notebooks-Course"><b>LLM Course on GitHub</b></a> is a community resource with over <b>1,700 stars</b>. 
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,34 +62,6 @@ My work is focused on two main pillars: making LLMs more efficient and making th
 
 ---
 
-### Author & Educator
-
-<table>
-   <tr>
-    <td width="140">
-      <a href="https://hubs.la/Q040tvsK0">
-        <img src="https://github.com/peremartra/Rearchitecting-LLMs/blob/main/Images/cover.png" alt="Book Cover for Large Language Models Projects" width="120">
-      </a>
-    </td>
-    <td>
-      Authoring<b><a href="https://hubs.la/Q040tvsK0">"Rearchitecting LLMs"</a></b> (Manning, 2026) Understand and rearchitect internal LLMs. 
-      <br><br>
-      Join the community <a href="https://github.com/peremartra/Rearchitecting-LLMs"><b>Rearchitecting LLMs on GitHub</b></a> and become an LLM architect</b>. 
-    </td>
-  </tr>
-  <tr>
-    <td width="140">
-      <a href="https://link.springer.com/book/10.1007/979-8-8688-0515-8">
-        <img src="https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/img/Large_Language_Models_Projects_Book.jpg" alt="Book Cover for Large Language Models Projects" width="120">
-      </a>
-    </td>
-    <td>
-      I wrote <b><a href="https://link.springer.com/book/10.1007/979-8-8688-0515-8">"Large Language Models Projects"</a></b> (Apress, 2024) to provide practical, hands-on guidance for AI practitioners. 
-      <br><br>
-      The accompanying <a href="https://github.com/peremartra/Large-Language-Model-Notebooks-Course"><b>LLM Course on GitHub</b></a> is a community resource with over <b>1,700 stars</b>. 
-    </td>
-  </tr>
-</table>
 
 ### Areas of Collaboration
 I am currently focused on my research and writing. I am open to select, high-impact collaborations where I can provide strategic value through **Technical Advisory** or **Applied Research Partnerships**.
