@@ -1,12 +1,11 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Se actualiza cada 24 horas
-  schedule: [{cron: "0 0 * * *"}]
-  # Permite ejecutarlo manualmente desde la pestaña Actions
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # Se actualiza cada vez que haces un push a la rama principal
   push: {branches: ["master", "main"]}
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,17 +14,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Tu token guardado en Secrets
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Configuración visual
-          user: peremartra
+          # Options
           template: classic
-          base: header, community, repositories, metadata
+          base: ""
           config_timezone: Europe/Madrid
-          
-          # Plugins extras (puedes activar más luego)
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-          plugin_lines: yes
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: graph
+          plugin_stargazers_days: 14
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_sample: 0
