@@ -22,7 +22,6 @@ My work is focused on two main pillars: making LLMs more efficient and making th
     </td>
     <td>
       Authoring<b><a href="https://hubs.la/Q040tvsK0">"Rearchitecting LLMs"</a></b> (Manning, 2026) Understand and rearchitect internal LLMs. 
-      <b><a href="https://hubs.la/Q040tvsK0">50% Off with code MLMartra.</a></b>
       <br><br>
       Join the community <a href="https://github.com/peremartra/Rearchitecting-LLMs"><b>Rearchitecting LLMs on GitHub</b></a> and become an LLM architect</b>. 
     </td>
