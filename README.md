@@ -6,6 +6,12 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-yellow)](https://huggingface.co/oopere)
 
 ---
+> [!IMPORTANT]
+> **🐉 World Book Day Flash Sale (Apr 21 - Apr 24) 🌹**
+> To celebrate *Sant Jordi* (the traditional festival of books and roses), Manning is offering a **45% discount** on my upcoming book, [*Rearchitecting LLMs*](https://hubs.la/Q040tvsK0), in all formats. 
+>
+> Learn how to tame large models using structural pruning, knowledge distillation, and LoRA. 
+> Use code **`SJORDI45`** at checkout!
 
 ### Active work
 My work is focused on two main pillars: making LLMs more efficient and making them more fair.
