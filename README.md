@@ -5,16 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pere%20Martra-blue)](https://linkedin.com/in/pere-martra)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-yellow)](https://huggingface.co/oopere)
 
----
-> [!IMPORTANT]
-> ### ⚡ FLASH SALE: 45% OFF ONLY TODAY!
-> My book **"Rearchitecting LLMs"** is Manning's **Deal of the Day**. 
-> Learn to build hyper-efficient Small Language Models (SLMs) using Pruning, Distillation, and Quantization.
-> 
-> **[👉 Get the discount here](https://www.manning.com/dotd)**
-
----
-
 ### Active work
 My work is focused on two main pillars: making LLMs more efficient and making them more fair.
 
