@@ -54,7 +54,7 @@ My work is focused on two main pillars: making LLMs more efficient and making th
 | Type | Description |
 |---|---|
 | 🔥 **Flagship Library** | [**OptiPfair**](https://github.com/peremartra/optipfair): My open-source library for fairness-aware model pruning and bias visualization. **[Try the Interactive Demo on HF Spaces!](https://huggingface.co/spaces/oopere/optipfair-bias-analyzer)** |
-| 🔬 **Research** | [**Fairness Pruning Notebook**](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/blob/main/6-PRUNING/8_2_Targeted_Pruning_for_Bias_Mitigation.ipynb): Implementation of a methodology for targeted neuron pruning to mitigate demographic bias. |
+| 🔬 **Research** | [**Fairness Pruning Research**](https://github.com/peremartra/fairness-pruning): Implementation of a methodology for targeted neuron pruning to mitigate demographic bias. |
 | ✍️ **Article** | [**Fairness Pruning: Precision Surgery to Reduce Bias in LLMs**](https://towardsdatascience.com/fairness-pruning-precision-surgery-to-reduce-bias-in-llms/): My core methodology published on *Towards Data Science*. |
 
 ---
