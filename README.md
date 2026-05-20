@@ -72,5 +72,5 @@ I am currently focused on my research and writing. I am open to select, high-imp
 - 📧 **Direct Inquiries**: `peremartra [at] uadla [dot] com`
 
 ---
-![Stats](https://github.com/peremartra/peremartra/blob/main/github-metrics.svg)
+
 
