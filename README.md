@@ -23,8 +23,6 @@ My work is focused on two main pillars: making LLMs more efficient and making th
       <br><br>
       Join the community <a href="https://github.com/peremartra/Rearchitecting-LLMs"><b>Rearchitecting LLMs on GitHub</b></a> and become an LLM architect</b>. 
       <br><br>
-      <a href="https://hubs.la/Q040tvsK0" style="font-size: 12px; text-decoration: none;">⚠️ <strong>45% off — code martra26 - </strong></a> Valid with entire Manning catalog until May 27, 2026
-    </td>
   </tr>
   <tr>
     <td width="140">
