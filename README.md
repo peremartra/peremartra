@@ -17,6 +17,7 @@ My work is focused on two main pillars: making LLMs more efficient and making th
       <a href="https://hubs.la/Q040tvsK0">
         <img src="https://github.com/peremartra/Rearchitecting-LLMs/blob/main/Images/cover.png" alt="Book Cover for Large Language Models Projects" width="120">
       </a>
+[hubs.la/Q040tvsK0](https://hubs.la
     </td>
     <td>
       Authoring<b><a href="https://hubs.la/Q040tvsK0">"Rearchitecting LLMs"</a></b> (Manning, 2026) Understand and rearchitect internal LLMs. 
