@@ -1,6 +1,12 @@
 # Pere Martra | Research Engineer & LLM Optimization Expert
 *Rearchitecting LLMs.*
 
+## 📚 50% off *Rearchitecting LLMs*
+
+Until **August 11**, you can grab my book *Rearchitecting LLMs: Structural Techniques for Efficient Models* (Manning, MEAP) at 50% off.
+
+👉 [Get your copy here](https://hubs.la/Q040tvsK0)
+
 [![Contact for Collaboration](https://img.shields.io/badge/Contact%20for-Collaboration-brightgreen)](mailto:peremartra@uadla.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pere%20Martra-blue)](https://linkedin.com/in/pere-martra)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-yellow)](https://huggingface.co/oopere)
