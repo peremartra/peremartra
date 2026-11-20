@@ -19,7 +19,7 @@ My work is focused on two main pillars: making LLMs more efficient and making th
       </a>
     </td>
     <td>
-      Authoring<b><a href="https://hubs.la/Q040tvsK0">"Rearchitecting LLMs"</a></b> (Manning, 2026) Understand and rearchitect internal LLMs. 
+      Authoring<b><a href="https://hubs.la/Q040tvsK0">"Rearchitecting LLMs"</a></b> (Manning, 2026) Understand and rearchitect internal LLMs. Learn how to prune, distill, and deploy custom Small Language Models (SLMs) to replace expensive commercial LLM APIs.
       <br><br>
       Join the community <a href="https://github.com/peremartra/Rearchitecting-LLMs"><b>Rearchitecting LLMs on GitHub</b></a> and become an LLM architect</b>. 
       <br><br>
